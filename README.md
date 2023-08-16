@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&desc=&section=footer&height=230&text=Dajin+Jeong&animation=twinkling&fontsize=80&fontAlign=28&fontAlignY=70&&desc=New+Developer&descSize=35&descAlign=65&descAlignY=78&fontColor=f2f2f2&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&desc=&section=footer&height=230&text=Dajin+Jeong&animation=twinkling&fontsize=80&fontAlign=28&fontAlignY=70&&desc=New+Developer&descSize=35&descAlign=65&descAlignY=78&fontColor=f2f2f2&)
 <!--
 **djinii/djinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
